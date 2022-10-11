@@ -1,0 +1,92 @@
+.row{
+  display: flex;
+}
+.col{
+  display: flex;
+  flex-direction: column;
+}
+.col50
+{
+  width: 50%;
+}
+.flexJCC{
+  justify-content: center;
+}
+.flexAIC{
+  align-items: center;
+}
+.flexSB{
+justify-content: space-between;
+}
+.flex-grow{
+  flex-grow: 1;
+}
+.flex-wrap{
+  flex-wrap: wrap;
+}
+.flex-nowrap{
+  flex-wrap: nowrap;
+}
+.div1{
+  background-image: url('../public/Frame 1.png');
+  height: 200px;
+ background-size: cover;
+ position: relative;
+}
+
+.div2{
+  background-image: url('../public/Frame 1 (2) (copy).png');
+  height: 500px;
+ background-size: cover;
+}
+.div3{
+  background-image: url('../public/Frame 1 (3) (copy).png');
+  height: 500px;
+ background-size: cover;
+}
+.div4{
+  background-image: url('../public/Frame 2 (copy).png');
+  height: 300px;
+ background-size: cover;
+}
+.div5{
+  background-image: url('../public/Frame 2 (1).png');
+  height: 300px;
+ background-size: cover;
+}
+.div22{
+  background-color: #00b749;
+}
+.box{
+
+}
+.form{
+
+}
+.form .row input{
+  height: 30px;
+  margin: 1%;
+}
+.form .row button{
+  margin: 1%;
+  background-color: rgb(255, 0, 111);
+  border: none;
+  padding: 3%;
+  color: white;
+  margin-left: 6%;
+  font-weight: 800;
+}
+
+.form{
+  padding: 4%;
+  margin: 1%;
+  width: 67%;
+  background-color: #3ef83e4d;
+}
+.cll{
+  padding: 3%;
+  
+}
+.col50 .p1{
+  color: white;
+}
